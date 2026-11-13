@@ -5,3 +5,7 @@ Descripción en una o dos lineas
 ## Cómo se corre
 
 python main.py
+
+## Integrantes 
+
+Martha estudiantes lo modifico
